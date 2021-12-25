@@ -8,6 +8,7 @@ on:
     paths:
       - '**.md'
       - 'figures/**'
+      - '!README.md'
     
   workflow_dispatch:
     
