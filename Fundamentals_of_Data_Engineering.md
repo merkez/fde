@@ -120,3 +120,5 @@ At the time of this writing, the primary languages of data engineering are SQL, 
 - Data engineers sit at the nexus of a variety of roles.
 
 ![](./figures/data_engineers_roles.jpeg)
+
+--- 
